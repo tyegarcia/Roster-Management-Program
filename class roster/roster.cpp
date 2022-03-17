@@ -163,7 +163,7 @@ void Roster::printByDegreeProgram(Degree degreeProgram) {
 int main() {
 	int maxSize = 5;
 	
-	cout << endl << "C867 Scripting and Programming\t C++    #000954923   Robert Morales" << endl << endl;
+	cout << endl << "C867 Scripting and Programming\t C++    #000000000   Tye Garcia" << endl << endl;
 	
 	Roster* classRoster = new Roster(maxSize);   //create classRoster, add each student to classRoster
 
